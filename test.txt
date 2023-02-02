@@ -1,0 +1,7 @@
+secret:tNoO4AgIGfJSni?*EuYde#lEn(1OiYm)w{7$]
+
+
+
+JUs1cDqcpxMdU6H5huPkIx9K1dF/OsNKXMFhAV5ReoQs4Xu9jnPQexqmbHGaJ/0EnTYCo4f9jl+X+AStBCFePw==
+
+DefaultEndpointsProtocol=https;AccountName=testblob;AccountKey=JUs1cDqcpxMdU6H5huPkIx9K1dF/OsNKXMFhAV5ReoQs4Xu9jnPQexqmbHGaJ/0EnTYCo4f9jl+X+AStBCFePw==;EndpointSuffix=core.windows.net
