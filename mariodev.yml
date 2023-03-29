@@ -15,6 +15,6 @@ spec:
    spec:
     containers:
     - name: mario-container
-      image: mycontainerasp2.azurecr.io/samples/mario:latest
+      image: XXXXXXX.azurecr.io/samples/mario:latest
       ports:
       - containerPort: 8080
